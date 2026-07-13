@@ -2,7 +2,7 @@
 /*Plugin Name: Update Plugin Public Repo
 Plugin URI: https://bootscore.me/documentation/
 Description: Updates from GitHub Releases
-Version: 0.3.0
+Version: 0.4.0
 Tested up to: 7.0
 Requires at least: 5.0
 Requires PHP: 7.4
