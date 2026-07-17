@@ -1,7 +1,7 @@
 === bs Update Plugin Public Repo ===
 
 
-Stable tag: 0.4.0
+Stable tag: 0.5.0
 Tested up to: 7.0
 Requires at least: 5.0
 Requires PHP: 7.4
@@ -26,6 +26,10 @@ This is the long description.  No limit, and you can use Markdown (as well as in
         
 
 == Changelog ==
+
+= 0.5.0 - July 17 2026 =
+
+text
 
 = 5.8.11 - September 01 2025 =
 
